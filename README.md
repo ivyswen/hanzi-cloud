@@ -35,8 +35,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone <your-repo-url>
-cd chinese_wordcloud
+git clone https://github.com/ivyswen/hanzi-cloud
+cd hanzi-cloud
 ```
 
 ### 2. 安装依赖
