@@ -35,7 +35,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/ivyswen/hanzi-cloud
+git clone https://github.com/ivyswen/hanzi-cloud.git
 cd hanzi-cloud
 ```
 
